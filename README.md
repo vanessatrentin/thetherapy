@@ -1,0 +1,1 @@
+# An app to register all the most important knowleges from my therapy sessions. An app to remember everything that I learned in therapy, so I can revisit, rethink and apply every day in my life, for each need I can have.
